@@ -9,7 +9,7 @@
 <br/>
 
 [![GitHub](https://img.shields.io/badge/GitHub-YOUR_ID-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/YOUR_ID)
-[![Solved.ac](https://img.shields.io/badge/solved.ac-YOUR_BOJ_ID-17CE3A?style=flat-square&logo=solveddotac&logoColor=white)](https://solved.ac/YOUR_BOJ_ID)
+[![Solved.ac](https://img.shields.io/badge/solved.ac-c000317-17CE3A?style=flat-square&logo=solveddotac&logoColor=white)](https://solved.ac/c000317)
 [![Email](https://img.shields.io/badge/Email-contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
 
 </div>
@@ -90,8 +90,8 @@ Recall         -> what did I want to remember?
 ## Problem Solving
 
 <div align="left">
-  <a href="https://solved.ac/YOUR_BOJ_ID">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BOJ_ID" alt="Solved.ac Profile" height="170"/>
+  <a href="https://solved.ac/c000317">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=c000317" alt="Solved.ac Profile" height="170"/>
   </a>
 </div>
 
