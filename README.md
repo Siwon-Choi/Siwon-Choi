@@ -57,7 +57,7 @@ Recall         -> what did I want to remember?
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/YOUR_ID/Recall">
-        <img src="https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=720&h=420&q=80" alt="Recall preview" width="100%"/>
+        <img src="./assets/recall-demo.gif" alt="Recall demo" width="100%"/>
       </a>
       <hr/>
       <h3>Recall</h3>
