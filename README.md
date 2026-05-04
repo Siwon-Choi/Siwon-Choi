@@ -33,54 +33,40 @@ Recall         -> what did I want to remember?
 
 ## Projects
 
-### Game_Match
-
-<p align="center">
-  <a href="https://github.com/YOUR_ID/Game_Match">
-    <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=1200&h=420&q=80" alt="Game_Match preview" width="100%"/>
-  </a>
-</p>
-
-> 게임 취향, 플레이 시간, 선호 포지션을 기반으로 함께 플레이할 사람을 찾는 매칭 서비스
-
-**Stack**<br/>
-`React` `TypeScript` `Spring Boot` `MySQL`
-
-[Repository 준비중](https://github.com/YOUR_ID/Game_Match)
-
-<br/>
-
-### Toilet_NearBy
-
-<p align="center">
-  <a href="https://github.com/YOUR_ID/Toilet_NearBy">
-    <img src="https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&w=1200&h=420&q=80" alt="Toilet_NearBy preview" width="100%"/>
-  </a>
-</p>
-
-> 급한 순간에 주변 화장실을 빠르게 찾고, 필요한 정보를 바로 확인하는 위치 기반 서비스
-
-**Stack**<br/>
-`React` `TypeScript` `Map API` `Spring Boot`
-
-[Repository 준비중](https://github.com/YOUR_ID/Toilet_NearBy)
-
-<br/>
-
-### Recall
-
-<p align="center">
-  <a href="https://github.com/YOUR_ID/Recall">
-    <img src="https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=1200&h=420&q=80" alt="Recall preview" width="100%"/>
-  </a>
-</p>
-
-> 기록한 생각과 경험을 다시 찾고, 나중에 떠올릴 수 있게 돕는 회고/기억 보조 서비스
-
-**Stack**<br/>
-`Next.js` `TypeScript` `PostgreSQL` `Vercel`
-
-[Repository 준비중](https://github.com/YOUR_ID/Recall)
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <a href="https://github.com/YOUR_ID/Game_Match">
+        <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=720&h=420&q=80" alt="Game_Match preview" width="100%"/>
+      </a>
+      <hr/>
+      <h3>Game_Match</h3>
+      <p>게임 취향, 플레이 시간, 선호 포지션을 기반으로 함께 플레이할 사람을 찾는 매칭 서비스</p>
+      <p><b>Stack</b><br/><code>React</code> <code>TypeScript</code> <code>Spring Boot</code> <code>MySQL</code></p>
+      <p><a href="https://github.com/YOUR_ID/Game_Match">Repository 준비중</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/YOUR_ID/Toilet_NearBy">
+        <img src="https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&w=720&h=420&q=80" alt="Toilet_NearBy preview" width="100%"/>
+      </a>
+      <hr/>
+      <h3>Toilet_NearBy</h3>
+      <p>급한 순간에 주변 화장실을 빠르게 찾고, 필요한 정보를 바로 확인하는 위치 기반 서비스</p>
+      <p><b>Stack</b><br/><code>React</code> <code>TypeScript</code> <code>Map API</code> <code>Spring Boot</code></p>
+      <p><a href="https://github.com/YOUR_ID/Toilet_NearBy">Repository 준비중</a></p>
+    </td>
+    <td width="33%" valign="top">
+      <a href="https://github.com/YOUR_ID/Recall">
+        <img src="https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=720&h=420&q=80" alt="Recall preview" width="100%"/>
+      </a>
+      <hr/>
+      <h3>Recall</h3>
+      <p>기록한 생각과 경험을 다시 찾고, 나중에 떠올릴 수 있게 돕는 회고/기억 보조 서비스</p>
+      <p><b>Stack</b><br/><code>Next.js</code> <code>TypeScript</code> <code>PostgreSQL</code> <code>Vercel</code></p>
+      <p><a href="https://github.com/YOUR_ID/Recall">Repository 준비중</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
