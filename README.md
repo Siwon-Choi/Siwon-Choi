@@ -33,57 +33,57 @@ Recall         -> what did I want to remember?
 
 ## Projects
 
-### Game_Match
+### Option A. 세로 3분할 + 사진
 
-> 게임 취향, 플레이 시간, 선호 포지션을 기반으로 함께 플레이할 사람을 찾는 매칭 서비스
+<table>
+  <tr>
+    <td width="38%" valign="top">
+      <img src="https://images.unsplash.com/photo-1542751371-adc38448a05e?auto=format&fit=crop&w=900&q=80" alt="Game_Match preview" width="100%"/>
+    </td>
+    <td valign="top">
+      <h3>Game_Match</h3>
+      <p>게임 취향, 플레이 시간, 선호 포지션을 기반으로 함께 플레이할 사람을 찾는 매칭 서비스</p>
+      <p><b>Stack</b><br/>React · TypeScript · Spring Boot · MySQL</p>
+      <p><a href="https://github.com/YOUR_ID/Game_Match">Repository 준비중</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="38%" valign="top">
+      <img src="https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&w=900&q=80" alt="Toilet_NearBy preview" width="100%"/>
+    </td>
+    <td valign="top">
+      <h3>Toilet_NearBy</h3>
+      <p>급한 순간에 주변 화장실을 빠르게 찾고, 필요한 정보를 바로 확인하는 위치 기반 서비스</p>
+      <p><b>Stack</b><br/>React · TypeScript · Map API · Spring Boot</p>
+      <p><a href="https://github.com/YOUR_ID/Toilet_NearBy">Repository 준비중</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="38%" valign="top">
+      <img src="https://images.unsplash.com/photo-1455390582262-044cdead277a?auto=format&fit=crop&w=900&q=80" alt="Recall preview" width="100%"/>
+    </td>
+    <td valign="top">
+      <h3>Recall</h3>
+      <p>기록한 생각과 경험을 다시 찾고, 나중에 떠올릴 수 있게 돕는 회고/기억 보조 서비스</p>
+      <p><b>Stack</b><br/>Next.js · TypeScript · PostgreSQL · Vercel</p>
+      <p><a href="https://github.com/YOUR_ID/Recall">Repository 준비중</a></p>
+    </td>
+  </tr>
+</table>
 
-**What I care about**
+### Option B. 가로 3이미지 카드
 
-- 매칭 조건이 복잡해져도 사용자는 간단하게 느끼는 흐름
-- 프로필, 게임 정보, 매칭 상태가 자연스럽게 이어지는 데이터 구조
-- 요청, 수락, 거절, 완료 상태를 안정적으로 관리하는 API
-
-**Stack**
-
-`React` `TypeScript` `Spring Boot` `MySQL`
-
-[Repository 준비중](https://github.com/YOUR_ID/Game_Match)
-
----
-
-### Toilet_NearBy
-
-> 급한 순간에 주변 화장실을 빠르게 찾고, 필요한 정보를 바로 확인하는 위치 기반 서비스
-
-**What I care about**
-
-- 현재 위치 기준 검색과 지도 UI의 직관성
-- 영업 여부, 거리, 접근성 같은 실제 사용 맥락
-- 공공 데이터/API를 서비스 화면에 맞게 정리하는 과정
-
-**Stack**
-
-`React` `TypeScript` `Map API` `Spring Boot`
-
-[Repository 준비중](https://github.com/YOUR_ID/Toilet_NearBy)
-
----
-
-### Recall
-
-> 기록한 생각과 경험을 다시 찾고, 나중에 떠올릴 수 있게 돕는 회고/기억 보조 서비스
-
-**What I care about**
-
-- 기록을 쌓는 경험보다 다시 꺼내는 경험
-- 태그, 검색, 리마인드가 부담 없이 이어지는 UX
-- 개인 데이터가 안전하게 저장되고 관리되는 구조
-
-**Stack**
-
-`Next.js` `TypeScript` `PostgreSQL` `Vercel`
-
-[Repository 준비중](https://github.com/YOUR_ID/Recall)
+<p align="center">
+  <a href="https://github.com/YOUR_ID/Game_Match">
+    <img src="./assets/project-game-match.svg" alt="Game_Match project card" width="31%"/>
+  </a>
+  <a href="https://github.com/YOUR_ID/Toilet_NearBy">
+    <img src="./assets/project-toilet-nearby.svg" alt="Toilet_NearBy project card" width="31%"/>
+  </a>
+  <a href="https://github.com/YOUR_ID/Recall">
+    <img src="./assets/project-recall.svg" alt="Recall project card" width="31%"/>
+  </a>
+</p>
 
 ---
 
