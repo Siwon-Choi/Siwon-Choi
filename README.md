@@ -31,11 +31,7 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <a href="https://github.com/Siwon-Choi/game-match-backend">
-        <img src="./assets/game-match-architecture.png" alt="Game_Match architecture" width="100%"/>
-      </a>
-      <hr/>
+    <td width="62%" valign="top">
       <h3>Game_Match</h3>
       <p>친선 매칭을 제공하는 게임 커뮤니티 플랫폼입니다. 매칭 신청, 팀원 등록, 사용자 인증, 게시글 흐름을 하나의 서비스 구조로 설계했습니다.</p>
       <p><b>Core</b></p>
@@ -52,11 +48,14 @@
         <a href="https://github.com/Siwon-Choi/game-match-backend">Backend</a>
       </p>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://github.com/Siwon-Choi/ToiletNearBy_FE">
-        <img src="./assets/toilet-nearby-demo.gif" alt="Toilet_NearBy demo" width="100%"/>
+    <td width="38%" valign="top">
+      <a href="https://github.com/Siwon-Choi/game-match-backend">
+        <img src="./assets/game-match-architecture.png" alt="Game_Match architecture" width="100%"/>
       </a>
-      <hr/>
+    </td>
+  </tr>
+  <tr>
+    <td width="62%" valign="top">
       <h3>Toilet_NearBy</h3>
       <p>현재 위치 기반으로 주변 공중화장실을 찾고, 후기/평점/비밀번호 정보를 공유하는 커뮤니티형 위치 서비스입니다.</p>
       <p><b>Core</b></p>
@@ -73,11 +72,14 @@
         <a href="https://github.com/Siwon-Choi/ToiletNearBy_BE">Backend</a>
       </p>
     </td>
-    <td width="33%" valign="top">
-      <a href="https://auto-ever-project-1.vercel.app/">
-        <img src="./assets/recall-demo.gif" alt="Recall demo" width="100%"/>
+    <td width="38%" valign="top">
+      <a href="https://github.com/Siwon-Choi/ToiletNearBy_FE">
+        <img src="./assets/toilet-nearby-demo.gif" alt="Toilet_NearBy demo" width="100%"/>
       </a>
-      <hr/>
+    </td>
+  </tr>
+  <tr>
+    <td width="62%" valign="top">
       <h3>Recall</h3>
       <p>동창생을 검색하고 다시 연결될 수 있도록 돕는 웹 서비스입니다. 팀장으로 프로젝트 방향을 조율하고 프론트엔드 개발을 담당했습니다.</p>
       <p><b>Core</b></p>
@@ -89,6 +91,11 @@
       </ul>
       <p><b>Stack</b><br/><code>React</code> <code>TypeScript</code> <code>Spring</code> <code>REST API</code> <code>AWS EC2</code> <code>Vercel</code></p>
       <p><a href="https://auto-ever-project-1.vercel.app/">Portfolio</a></p>
+    </td>
+    <td width="38%" valign="top">
+      <a href="https://auto-ever-project-1.vercel.app/">
+        <img src="./assets/recall-demo.gif" alt="Recall demo" width="100%"/>
+      </a>
     </td>
   </tr>
 </table>
