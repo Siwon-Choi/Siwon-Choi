@@ -47,7 +47,7 @@ Recall         -> what did I want to remember?
     </td>
     <td width="33%" valign="top">
       <a href="https://github.com/YOUR_ID/Toilet_NearBy">
-        <img src="https://images.unsplash.com/photo-1524661135-423995f22d0b?auto=format&fit=crop&w=720&h=420&q=80" alt="Toilet_NearBy preview" width="100%"/>
+        <img src="./assets/toilet-nearby-demo.gif" alt="Toilet_NearBy demo" width="100%"/>
       </a>
       <hr/>
       <h3>Toilet_NearBy</h3>
