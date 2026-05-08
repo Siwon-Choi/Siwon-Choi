@@ -110,7 +110,7 @@
       </ul>
       <p><b>Stack</b><br/><code>React</code> <code>TypeScript</code> <code>Leaflet</code> <code>Java</code> <code>Spring Boot</code> <code>Spring Security</code> <code>JPA</code> <code>PostgreSQL</code></p>
       <p>
-        <a href="[https://github.com/Siwon-Choi/ToiletNearBy_BE](https://github.com/Siwon-Choi/BE_ToiletNearBy/tree/main)">Backend</a>
+        <a href="https://github.com/Siwon-Choi/BE_ToiletNearBy/tree/main">Backend</a>
       </p>
     </td>
     <td width="33%" valign="top">
