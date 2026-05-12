@@ -74,28 +74,20 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <div align="center">
-        <a href="https://github.com/Siwon-Choi/game-match-backend">
-          <img src="./assets/game-match-architecture.png" alt="Game_Match architecture" width="100%"/>
-        </a>
-        <h3>Game_Match</h3>
-        <sub>친선 매칭 게임 커뮤니티 플랫폼</sub>
-      </div>
-      <br/>
-      <p>매칭 신청, 팀원 등록, 사용자 인증, 게시글 흐름을 하나의 서비스 구조로 설계한 백엔드 중심 프로젝트입니다.</p>
-      <p><b>Core</b></p>
+      <h3 align="center">Game_Match</h3>
+      <a href="https://github.com/Siwon-Choi/game-match-backend">
+        <img src="./assets/game-match-architecture.png" alt="Game_Match architecture" width="100%"/>
+      </a>
+      <p>매칭 신청, 팀원 등록, 사용자 인증, 게시글 흐름을 하나의 서비스 구조로 설계한 친선 매칭 게임 커뮤니티 플랫폼입니다.</p>
+      <p><b>핵심 기술</b></p>
       <ul>
         <li>도메인별 책임 분리와 서비스 레이어 중심 구조 설계</li>
         <li>대량 테스트 데이터 기반 쿼리 성능 검증</li>
         <li>매칭 상태 정합성을 위한 트랜잭션/제약 조건 고려</li>
         <li>만료 매칭 처리를 Spring Batch Job으로 고도화</li>
       </ul>
-      <p><b>Stack</b></p>
+      <p><b>기술 스택</b></p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000"/>
-        <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=fff"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff"/>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=fff"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff"/>
         <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=fff"/>
         <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=fff"/>
@@ -107,28 +99,20 @@
       </div>
     </td>
     <td width="33%" valign="top">
-      <div align="center">
-        <a href="https://github.com/Siwon-Choi/ToiletNearBy_FE">
-          <img src="./assets/toilet-nearby-demo.gif" alt="Toilet_NearBy demo" width="100%"/>
-        </a>
-        <h3>Toilet_NearBy</h3>
-        <sub>위치 기반 공중화장실 커뮤니티 서비스</sub>
-      </div>
-      <br/>
+      <h3 align="center">Toilet_NearBy</h3>
+      <a href="https://github.com/Siwon-Choi/ToiletNearBy_FE">
+        <img src="./assets/toilet-nearby-demo.gif" alt="Toilet_NearBy demo" width="100%"/>
+      </a>
       <p>현재 위치 기반으로 주변 공중화장실을 찾고, 후기/평점/비밀번호 정보를 공유하는 커뮤니티형 위치 서비스입니다.</p>
-      <p><b>Core</b></p>
+      <p><b>핵심 기술</b></p>
       <ul>
         <li>Spring Security OAuth2 Resource Server 기반 JWT 인증/인가</li>
         <li>Bounding Box + 좌표 복합 인덱스를 활용한 위치 검색 후보군 축소</li>
         <li>Grid 기반 Caffeine Cache를 통한 반복 위치 검색 최적화</li>
         <li>Repository interface / JPA adapter 분리를 통한 저장소 의존성 분리</li>
       </ul>
-      <p><b>Stack</b></p>
+      <p><b>기술 스택</b></p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff"/>
-        <img src="https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=fff"/>
-        <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=fff"/>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff"/>
         <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=fff"/>
         <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=fff"/>
@@ -140,29 +124,23 @@
       </div>
     </td>
     <td width="33%" valign="top">
-      <div align="center">
-        <a href="https://auto-ever-project-1.vercel.app/">
-          <img src="./assets/recall-demo.gif" alt="Recall demo" width="100%"/>
-        </a>
-        <h3>Recall</h3>
-        <sub>동창생 검색·재연결 웹 서비스</sub>
-      </div>
-      <br/>
+      <h3 align="center">Recall</h3>
+      <a href="https://auto-ever-project-1.vercel.app/">
+        <img src="./assets/recall-demo.gif" alt="Recall demo" width="100%"/>
+      </a>
       <p>동창생을 검색하고 다시 연결될 수 있도록 돕는 웹 서비스입니다. 팀장으로 프로젝트 방향을 조율하고 프론트엔드 개발을 담당했습니다.</p>
-      <p><b>Core</b></p>
+      <p><b>핵심 기술</b></p>
       <ul>
         <li>React/TypeScript 기반 검색 UI와 정보 조회 흐름 구현</li>
         <li>프론트엔드와 백엔드 REST API 연결 구조 설계</li>
         <li>Spring 기반 서버 일부 기능 개발 참여</li>
         <li>Vercel 배포와 팀 역할 분담/일정 조율 경험</li>
       </ul>
-      <p><b>Stack</b></p>
+      <p><b>기술 스택</b></p>
       <p>
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff"/>
         <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=fff"/>
-        <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square"/>
-        <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=fff"/>
         <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=fff"/>
       </p>
       <div align="center">
