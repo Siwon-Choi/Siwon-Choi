@@ -2,7 +2,7 @@
 
 # 최시원
 
-### 사용자 불편을 서비스 구조로 풀어내는 웹 개발자
+### 사용자 욕구를 IT 서비스로 해소하고자합니다.
 
 `Spring Boot` `React` `TypeScript` `Location Service` `Matching` `Service Design`
 
