@@ -73,7 +73,7 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td width="32%" valign="top">
       <h3 align="center">Game_Match</h3>
       <a href="https://github.com/Siwon-Choi/game-match-backend">
         <img src="./assets/game-match-architecture.png" alt="Game_Match architecture" width="100%"/>
@@ -98,9 +98,10 @@
         <a href="https://github.com/Siwon-Choi/game-match-backend"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=fff"/></a>
       </div>
     </td>
-    <td width="33%" valign="top">
+    <td width="1%" bgcolor="#d0d7de">&nbsp;</td>
+    <td width="32%" valign="top">
       <h3 align="center">Toilet_NearBy</h3>
-      <a href="https://github.com/Siwon-Choi/ToiletNearBy_FE">
+      <a href="https://github.com/Siwon-Choi/BE_ToiletNearBy">
         <img src="./assets/toilet-nearby-demo.gif" alt="Toilet_NearBy demo" width="100%"/>
       </a>
       <p>현재 위치 기반으로 주변 공중화장실을 찾고, 후기/평점/비밀번호 정보를 공유하는 커뮤니티형 위치 서비스입니다.</p>
@@ -119,11 +120,11 @@
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff"/>
       </p>
       <div align="center">
-        <a href="https://github.com/Siwon-Choi/ToiletNearBy_FE"><img src="https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github&logoColor=fff"/></a>
         <a href="https://github.com/Siwon-Choi/BE_ToiletNearBy"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=fff"/></a>
       </div>
     </td>
-    <td width="33%" valign="top">
+    <td width="1%" bgcolor="#d0d7de">&nbsp;</td>
+    <td width="32%" valign="top">
       <h3 align="center">Recall</h3>
       <a href="https://auto-ever-project-1.vercel.app/">
         <img src="./assets/recall-demo.gif" alt="Recall demo" width="100%"/>
