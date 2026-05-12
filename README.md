@@ -75,11 +75,21 @@
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">Game_Match</h3>
+      <div align="center">
+        <a href="https://github.com/Siwon-Choi/game-match-frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github&logoColor=fff"/></a>
+        <a href="https://github.com/Siwon-Choi/game-match-backend"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=fff"/></a>
+      </div>
       <hr/>
       <a href="https://github.com/Siwon-Choi/game-match-backend">
         <img src="./assets/game-match-architecture.png" alt="Game_Match architecture" width="100%"/>
       </a>
-      <hr/>
+      <p><b>기술 스택</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff"/>
+      </p>
       <p>매칭 신청, 팀원 등록, 사용자 인증, 게시글 흐름을 하나의 서비스 구조로 설계한 친선 매칭 게임 커뮤니티 플랫폼입니다.</p>
       <hr/>
       <p><b>핵심 기술</b></p>
@@ -89,27 +99,23 @@
         <li>매칭 상태 정합성을 위한 트랜잭션/제약 조건 고려</li>
         <li>만료 매칭 처리를 Spring Batch Job으로 고도화</li>
       </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Toilet_NearBy</h3>
+      <div align="center">
+        <a href="https://github.com/Siwon-Choi/BE_ToiletNearBy"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=fff"/></a>
+      </div>
       <hr/>
+      <a href="https://github.com/Siwon-Choi/BE_ToiletNearBy">
+        <img src="./assets/toilet-nearby-demo.gif" alt="Toilet_NearBy demo" width="100%"/>
+      </a>
       <p><b>기술 스택</b></p>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff"/>
         <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=fff"/>
         <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=fff"/>
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff"/>
       </p>
-      <hr/>
-      <div align="center">
-        <a href="https://github.com/Siwon-Choi/game-match-frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github&logoColor=fff"/></a>
-        <a href="https://github.com/Siwon-Choi/game-match-backend"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=fff"/></a>
-      </div>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">Toilet_NearBy</h3>
-      <hr/>
-      <a href="https://github.com/Siwon-Choi/BE_ToiletNearBy">
-        <img src="./assets/toilet-nearby-demo.gif" alt="Toilet_NearBy demo" width="100%"/>
-      </a>
-      <hr/>
       <p>현재 위치 기반으로 주변 공중화장실을 찾고, 후기/평점/비밀번호 정보를 공유하는 커뮤니티형 위치 서비스입니다.</p>
       <hr/>
       <p><b>핵심 기술</b></p>
@@ -119,26 +125,23 @@
         <li>Grid 기반 Caffeine Cache를 통한 반복 위치 검색 최적화</li>
         <li>Repository interface / JPA adapter 분리를 통한 저장소 의존성 분리</li>
       </ul>
-      <hr/>
-      <p><b>기술 스택</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff"/>
-        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=fff"/>
-        <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=fff"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff"/>
-      </p>
-      <hr/>
-      <div align="center">
-        <a href="https://github.com/Siwon-Choi/BE_ToiletNearBy"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=fff"/></a>
-      </div>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Recall</h3>
+      <div align="center">
+        <a href="https://auto-ever-project-1.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=fff"/></a>
+      </div>
       <hr/>
       <a href="https://auto-ever-project-1.vercel.app/">
         <img src="./assets/recall-demo.gif" alt="Recall demo" width="100%"/>
       </a>
-      <hr/>
+      <p><b>기술 스택</b></p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=fff"/>
+      </p>
       <p>동창생을 검색하고 다시 연결될 수 있도록 돕는 웹 서비스입니다. 팀장으로 프로젝트 방향을 조율하고 프론트엔드 개발을 담당했습니다.</p>
       <hr/>
       <p><b>핵심 기술</b></p>
@@ -148,18 +151,6 @@
         <li>Spring 기반 서버 일부 기능 개발 참여</li>
         <li>Vercel 배포와 팀 역할 분담/일정 조율 경험</li>
       </ul>
-      <hr/>
-      <p><b>기술 스택</b></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff"/>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=fff"/>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=fff"/>
-      </p>
-      <hr/>
-      <div align="center">
-        <a href="https://auto-ever-project-1.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=fff"/></a>
-      </div>
     </td>
   </tr>
 </table>
