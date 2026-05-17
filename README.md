@@ -121,7 +121,7 @@
     <td width="33%" valign="top">
       <h3 align="center">Recall</h3>
       <div align="center">
-        <a href="https://auto-ever-project-1.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=fff"/></a>
+        <a href="https://github.com/sw-2-2/recall-frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github&logoColor=fff"/></a>
       </div>
       <hr/>
       <a href="https://auto-ever-project-1.vercel.app/">
