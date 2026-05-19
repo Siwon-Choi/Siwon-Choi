@@ -81,7 +81,7 @@
       </div>
       <hr/>
       <a href="https://github.com/Siwon-Choi/game-match-backend">
-        <img src="./assets/game-match-architecture.png" alt="Game_Match architecture" width="100%"/>
+        <img src="./assets/game-match-demo.gif" alt="Game_Match demo" width="100%"/>
       </a>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff"/>
