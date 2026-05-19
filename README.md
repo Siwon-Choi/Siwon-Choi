@@ -76,7 +76,7 @@
     <td width="33%" valign="top">
       <h3 align="center">Game_Match</h3>
       <div align="center">
-        <a href="https://github.com/Siwon-Choi/game-match-frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github&logoColor=fff"/></a>
+        <a href="https://github.com/Siwon-Choi/Game_Match_FE"><img src="https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github&logoColor=fff"/></a>
         <a href="https://github.com/Siwon-Choi/Game_Match_BE"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=fff"/></a>
       </div>
       <hr/>
