@@ -67,79 +67,76 @@
 
 ## Projects
 
-### GameMatch
-
-> 매칭 요청, 팀 등록, 사용자 인증, 게시판 기능을 제공하는 게임 커뮤니티 플랫폼
-
-**현재 개발 중 · GameMatch-Dev**
-
-[![Current Frontend](https://img.shields.io/badge/Current_Frontend-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/GameMatch-Dev/GameMatch_FE)
-[![Current Backend](https://img.shields.io/badge/Current_Backend-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/GameMatch-Dev/Game_Match_BE)
-
-**이전 버전 · 아래 소개와 데모 기준**
-
-[![Legacy Frontend](https://img.shields.io/badge/Legacy_Frontend-6B7280?style=flat-square&logo=github&logoColor=fff)](https://github.com/Siwon-Choi/Game_Match_FE)
-[![Legacy Backend](https://img.shields.io/badge/Legacy_Backend-6B7280?style=flat-square&logo=github&logoColor=fff)](https://github.com/Siwon-Choi/Game_Match_BE_Legacy)
-
-<p align="center">
-  <a href="https://github.com/Siwon-Choi/Game_Match_BE_Legacy">
-    <img src="./assets/game-match-demo.gif" alt="GameMatch legacy demo" width="520"/>
-  </a>
-</p>
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=fff)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=fff)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
-
-- 도메인별 책임 분리와 서비스 레이어 중심 구조 설계
-- 상태 변경이 많은 매칭 흐름에 트랜잭션과 제약 조건 적용
-- 스케줄러 기반 만료 매칭 상태 처리
-
----
-
-### Toilet_NearBy
-
-> 현재 위치를 기준으로 주변 공중화장실을 찾고, 후기·별점·비밀번호 정보를 공유하는 커뮤니티형 위치 서비스
-
-[![Backend](https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/Siwon-Choi/BE_ToiletNearBy)
-
-<p align="center">
-  <a href="https://github.com/Siwon-Choi/BE_ToiletNearBy">
-    <img src="./assets/toilet-nearby-demo.gif" alt="Toilet_NearBy demo" width="520"/>
-  </a>
-</p>
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=fff)
-![JPA](https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=fff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
-
-- Spring Security OAuth2 Resource Server 기반 JWT 인증·인가
-- Bounding Box와 좌표 복합 인덱스로 위치 검색 범위 축소
-- Grid 기반 Caffeine Cache로 반복 위치 검색 최적화
-- Repository interface와 JPA adapter 분리로 저장소 의존성 격리
-
----
-
-### BBD-AES ERP MSA
-
-> 자동차 부품 유통 ERP를 MSA로 구성한 프로젝트에서 User Service, Security Gateway, 공통 플랫폼 모듈 개발
-
-[![Organization](https://img.shields.io/badge/Organization-BBD--AES-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/BBD-AES)
-[![User Service](https://img.shields.io/badge/User_Service-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/BBD-AES/user)
-[![Security Gateway](https://img.shields.io/badge/Security_Gateway-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/BBD-AES/security-gateway)
-![bbd-security-core](https://img.shields.io/badge/bbd--security--core-6B7280?style=flat-square&logo=spring&logoColor=fff)
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)
-![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=fff)
-![Keycloak](https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=fff)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=fff)
-
-- **User Service**: 사용자·권한 관리, PostgreSQL/Redis, Kafka Outbox 이벤트 처리
-- **Security Gateway**: OAuth2 로그인, Keycloak 토큰 검증, Redis 세션 기반 단일 진입점 구성
-- **bbd-security-core**: 여러 서비스에서 재사용하는 보안·Redis·AOP·토큰 릴레이·멱등성 자동 설정 프레임워크 개발
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">GameMatch</h3>
+      <p align="center">
+        <b>현재 개발 중 · GameMatch-Dev</b><br/>
+        <a href="https://github.com/GameMatch-Dev/GameMatch_FE"><img src="https://img.shields.io/badge/Current_Frontend-181717?style=flat-square&logo=github&logoColor=fff" alt="Current frontend"/></a>
+        <a href="https://github.com/GameMatch-Dev/Game_Match_BE"><img src="https://img.shields.io/badge/Current_Backend-181717?style=flat-square&logo=github&logoColor=fff" alt="Current backend"/></a>
+      </p>
+      <p align="center">
+        <b>이전 버전 · 소개 기준</b><br/>
+        <a href="https://github.com/Siwon-Choi/Game_Match_FE"><img src="https://img.shields.io/badge/Legacy_Frontend-6B7280?style=flat-square&logo=github&logoColor=fff" alt="Legacy frontend"/></a>
+        <a href="https://github.com/Siwon-Choi/Game_Match_BE_Legacy"><img src="https://img.shields.io/badge/Legacy_Backend-6B7280?style=flat-square&logo=github&logoColor=fff" alt="Legacy backend"/></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff"/>
+      </p>
+      <p>매칭 요청, 팀 등록, 사용자 인증, 게시판 기능을 제공하는 게임 커뮤니티 플랫폼입니다. 아래 내용은 이전 버전 구현을 기준으로 합니다.</p>
+      <ul>
+        <li>도메인별 책임 분리와 서비스 레이어 중심 구조 설계</li>
+        <li>상태 변경이 많은 매칭 흐름에 트랜잭션과 제약 조건 적용</li>
+        <li>스케줄러 기반 만료 매칭 상태 처리</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Toilet_NearBy</h3>
+      <p align="center">
+        <a href="https://github.com/Siwon-Choi/BE_ToiletNearBy"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=fff" alt="Backend repository"/></a>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff"/>
+      </p>
+      <p>현재 위치를 기준으로 주변 공중화장실을 찾고, 후기·별점·비밀번호 정보를 공유하는 커뮤니티형 위치 서비스입니다.</p>
+      <ul>
+        <li>Spring Security OAuth2 Resource Server 기반 JWT 인증·인가</li>
+        <li>Bounding Box와 좌표 복합 인덱스로 위치 검색 범위 축소</li>
+        <li>Grid 기반 Caffeine Cache로 반복 위치 검색 최적화</li>
+        <li>Repository interface와 JPA adapter 분리로 저장소 의존성 격리</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">BBD-AES ERP MSA</h3>
+      <p align="center">
+        <a href="https://github.com/BBD-AES"><img src="https://img.shields.io/badge/Organization-BBD--AES-181717?style=flat-square&logo=github&logoColor=fff" alt="BBD-AES organization"/></a><br/>
+        <a href="https://github.com/BBD-AES/user"><img src="https://img.shields.io/badge/User_Service-181717?style=flat-square&logo=github&logoColor=fff" alt="User service"/></a>
+        <a href="https://github.com/BBD-AES/security-gateway"><img src="https://img.shields.io/badge/Security_Gateway-181717?style=flat-square&logo=github&logoColor=fff" alt="Security gateway"/></a>
+        <img src="https://img.shields.io/badge/bbd--security--core-6B7280?style=flat-square&logo=spring&logoColor=fff" alt="bbd security core private repository"/>
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=fff"/>
+      </p>
+      <p>자동차 부품 유통 ERP를 MSA로 구성한 프로젝트에서 사용자 서비스, 보안 게이트웨이, 공통 플랫폼 모듈을 개발했습니다.</p>
+      <ul>
+        <li><b>User Service</b>: 사용자·권한 관리, PostgreSQL/Redis, Kafka Outbox 이벤트 처리</li>
+        <li><b>Security Gateway</b>: OAuth2 로그인, Keycloak 토큰 검증, Redis 세션 기반 단일 진입점 구성</li>
+        <li><b>bbd-security-core</b>: 보안·Redis·AOP·토큰 릴레이·멱등성 자동 설정 프레임워크 개발</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
