@@ -108,7 +108,6 @@
         &nbsp;<br/>
         &nbsp;<br/>
         &nbsp;<br/>
-        &nbsp;<br/>
       </div>
       <hr/>
       <a href="https://github.com/Siwon-Choi/BE_ToiletNearBy">
