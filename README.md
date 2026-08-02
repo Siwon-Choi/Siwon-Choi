@@ -2,9 +2,9 @@
 
 # 최시원
 
-### 사용자 욕구를 IT 서비스로 해소하고자합니다.
+### 사용자의 불편을 IT 서비스로 해소하고 해결합니다.
 
-`Spring Boot` `React` `TypeScript` `Location Service` `Matching` `Service Design`
+`Spring Boot` `React` `TypeScript` `MSA` `Security` `Service Design`
 
 <br/>
 
@@ -20,10 +20,10 @@
 
 ## About Me
 
-사용자가 헤매는 시간을 줄이는 서비스를 만드는 데 관심이 있습니다.<br/>
-위치 기반 검색, 매칭 흐름, 기록/조회 경험처럼 일상적인 불편을 웹 서비스로 풀어내는 프로젝트를 주로 진행했습니다.
+사용자가 오래 기다리거나 반복해서 처리해야 하는 불편을 서비스로 해결하는 데 관심이 있습니다.<br/>
+위치 기반 검색·매칭·기록/조회 경험부터 인증과 서비스 간 통신까지, 사용자가 실제로 마주하는 흐름을 안정적으로 만드는 프로젝트를 진행해 왔습니다.
 
-백엔드에서는 `Spring Boot`, `Spring Security`, `JPA`, `JWT`, `DB 설계`를 중심으로 안정적인 API 구조를 고민했고, 프론트엔드에서는 `React`와 `TypeScript`로 사용자가 바로 이해할 수 있는 흐름을 구현했습니다.
+백엔드에서는 `Spring Boot`, `Spring Security`, `JPA`, `JWT`, `Redis`, `Kafka`를 활용해 API와 인증 구조를 설계하고, 프런트엔드에서는 `React`와 `TypeScript`로 사용자가 바로 이해할 수 있는 화면을 구현합니다.
 
 ---
 
@@ -48,6 +48,7 @@
 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=fff)
+![Spring Cloud](https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=fff)
 ![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat-square&logo=spring&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=fff)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=fff)
@@ -56,16 +57,11 @@
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=fff)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=fff)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=000)
-
-### Test & Data
-
-![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=fff)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=fff)
 
 ---
 
@@ -74,14 +70,22 @@
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">Game_Match</h3>
+      <h3 align="center">GameMatch</h3>
       <div align="center">
-        <a href="https://github.com/Siwon-Choi/Game_Match_FE"><img src="https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github&logoColor=fff"/></a>
-        <a href="https://github.com/Siwon-Choi/Game_Match_BE"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=fff"/></a>
+        <p>
+          <b>현재 개발 중 · GameMatch-Dev</b><br/>
+          <a href="https://github.com/GameMatch-Dev/Game_Match_FE"><img src="https://img.shields.io/badge/Current_Frontend-181717?style=flat-square&logo=github&logoColor=fff" alt="Current frontend"/></a>
+          <a href="https://github.com/GameMatch-Dev/Game_Match_BE"><img src="https://img.shields.io/badge/Current_Backend-181717?style=flat-square&logo=github&logoColor=fff" alt="Current backend"/></a>
+        </p>
+        <p>
+          <b>이전 버전 · 아래 소개와 데모 기준</b><br/>
+          <a href="https://github.com/Siwon-Choi/Game_Match_FE"><img src="https://img.shields.io/badge/Legacy_Frontend-6B7280?style=flat-square&logo=github&logoColor=fff" alt="Legacy frontend"/></a>
+          <a href="https://github.com/Siwon-Choi/Game_Match_BE_Legacy"><img src="https://img.shields.io/badge/Legacy_Backend-6B7280?style=flat-square&logo=github&logoColor=fff" alt="Legacy backend"/></a>
+        </p>
       </div>
       <hr/>
-      <a href="https://github.com/Siwon-Choi/game-match-backend">
-        <img src="./assets/game-match-demo.gif" alt="Game_Match demo" width="100%"/>
+      <a href="https://github.com/Siwon-Choi/Game_Match_BE_Legacy">
+        <img src="./assets/game-match-demo.gif" alt="GameMatch legacy demo" width="100%"/>
       </a>
       <p>
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff"/>
@@ -89,17 +93,17 @@
         <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=fff"/>
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=fff"/>
       </p>
-      <p>매칭 신청, 팀원 등록, 사용자 인증, 게시글 흐름을 하나의 서비스 구조로 설계한 친선 매칭 게임 커뮤니티 플랫폼입니다.</p>
+      <p><b>※ 아래 소개와 데모는 이전 버전의 구현을 기준으로 합니다.</b></p>
+      <p>매칭 요청, 팀 등록, 사용자 인증, 게시판 기능을 제공하는 게임 커뮤니티 플랫폼입니다.</p>
       <hr/>
       <p>• 도메인별 책임 분리와 서비스 레이어 중심 구조 설계</p>
-      <p>• 대량 테스트 데이터 기반 쿼리 성능 검증</p>
-      <p>• 매칭 상태 정합성을 위한 트랜잭션/제약 조건 고려</p>
+      <p>• 상태 변경이 많은 매칭 흐름에 트랜잭션과 제약 조건 적용</p>
       <p>• 스케줄러 기반 만료 매칭 상태 처리</p>
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Toilet_NearBy</h3>
       <div align="center">
-        <a href="https://github.com/Siwon-Choi/BE_ToiletNearBy"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=fff"/></a>
+        <a href="https://github.com/Siwon-Choi/BE_ToiletNearBy"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=fff" alt="Backend repository"/></a>
       </div>
       <hr/>
       <a href="https://github.com/Siwon-Choi/BE_ToiletNearBy">
@@ -111,34 +115,34 @@
         <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=fff"/>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=fff"/>
       </p>
-      <p>현재 위치 기반으로 주변 공중화장실을 찾고, 후기/평점/비밀번호 정보를 공유하는 커뮤니티형 위치 서비스입니다.</p>
+      <p>현재 위치를 기준으로 주변 공중화장실을 찾고, 후기·별점·비밀번호 정보를 공유하는 커뮤니티형 위치 서비스입니다.</p>
       <hr/>
-      <p>• Spring Security OAuth2 Resource Server 기반 JWT 인증/인가</p>
-      <p>• Bounding Box + 좌표 복합 인덱스를 활용한 위치 검색 후보군 축소</p>
-      <p>• Grid 기반 Caffeine Cache를 통한 반복 위치 검색 최적화</p>
-      <p>• Repository interface / JPA adapter 분리를 통한 저장소 의존성 분리</p>
+      <p>• Spring Security OAuth2 Resource Server 기반 JWT 인증·인가</p>
+      <p>• Bounding Box와 좌표 복합 인덱스로 위치 검색 범위 축소</p>
+      <p>• Grid 기반 Caffeine Cache로 반복 위치 검색 최적화</p>
+      <p>• Repository interface와 JPA adapter 분리로 저장소 의존성 격리</p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">Recall</h3>
+      <h3 align="center">BBD-AES ERP MSA</h3>
       <div align="center">
-        <a href="https://github.com/sw-2-2/recall-frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=flat-square&logo=github&logoColor=fff"/></a>
+        <a href="https://github.com/BBD-AES"><img src="https://img.shields.io/badge/Organization-BBD--AES-181717?style=flat-square&logo=github&logoColor=fff" alt="BBD-AES organization"/></a><br/>
+        <a href="https://github.com/BBD-AES/user"><img src="https://img.shields.io/badge/User_Service-181717?style=flat-square&logo=github&logoColor=fff" alt="User service"/></a>
+        <a href="https://github.com/BBD-AES/security-gateway"><img src="https://img.shields.io/badge/Security_Gateway-181717?style=flat-square&logo=github&logoColor=fff" alt="Security gateway"/></a>
+        <img src="https://img.shields.io/badge/bbd--security--core-6B7280?style=flat-square&logo=spring&logoColor=fff" alt="bbd security core private repository"/>
       </div>
       <hr/>
-      <a href="https://auto-ever-project-1.vercel.app/">
-        <img src="./assets/recall-demo.gif" alt="Recall demo" width="100%"/>
-      </a>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff"/>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=fff"/>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/Spring_Cloud-6DB33F?style=flat-square&logo=spring&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=flat-square&logo=keycloak&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=fff"/>
+        <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=fff"/>
       </p>
-      <p>동창생을 검색하고 다시 연결될 수 있도록 돕는 웹 서비스입니다. 팀장으로 프로젝트 방향을 조율하고 프론트엔드 개발을 담당했습니다.</p>
+      <p>자동차 부품 유통 ERP를 MSA로 구성한 프로젝트에서 사용자 서비스, 보안 게이트웨이, 공통 플랫폼 모듈을 개발했습니다.</p>
       <hr/>
-      <p>• React/TypeScript 기반 검색 UI와 정보 조회 흐름 구현</p>
-      <p>• 프론트엔드와 백엔드 REST API 연결 구조 설계</p>
-      <p>• Spring 기반 서버 일부 기능 개발 참여</p>
-      <p>• Vercel 배포와 팀 역할 분담/일정 조율 경험</p>
+      <p>• <b>User Service</b>: 사용자·권한 관리, PostgreSQL/Redis, Kafka Outbox 이벤트 처리</p>
+      <p>• <b>Security Gateway</b>: OAuth2 로그인, Keycloak 토큰 검증, Redis 세션 기반의 단일 진입점 구성</p>
+      <p>• <b>bbd-security-core</b>: 여러 서비스에서 재사용하는 보안·Redis·AOP·토큰 릴레이·멱등성 자동 설정 프레임워크 개발</p>
     </td>
   </tr>
 </table>
@@ -150,19 +154,19 @@
 <table>
   <tr>
     <td width="28%" valign="top"><b>위치 기반 검색 최적화</b><br/><sub>Toilet_NearBy</sub></td>
-    <td>Bounding Box 후보군 조회, 좌표 복합 인덱스, 격자 기반 캐싱을 적용해 현재 위치 기반 검색의 반복 조회 비용을 줄이는 방향을 고민했습니다.</td>
+    <td>Bounding Box 사전 조회, 좌표 복합 인덱스, 격자 기반 캐싱을 적용해 현재 위치 기반 검색의 반복 조회 비용을 줄이는 방향을 고민했습니다.</td>
   </tr>
   <tr>
-    <td width="28%" valign="top"><b>인증/보안 흐름 설계</b><br/><sub>Game_Match · Toilet_NearBy</sub></td>
-    <td>Spring Security와 JWT 기반 인증을 구현하고, access token 검증, refresh token 재발급, 보호 API 접근 흐름을 서비스 구조에 맞게 설계했습니다.</td>
+    <td width="28%" valign="top"><b>인증·인가 서비스 설계</b><br/><sub>GameMatch · Toilet_NearBy</sub></td>
+    <td>Spring Security와 JWT 기반 인증을 구현하고, 보호 API의 접근 제어를 서비스 구조에 맞게 설계했습니다.</td>
   </tr>
   <tr>
-    <td width="28%" valign="top"><b>데이터 정합성 관리</b><br/><sub>Game_Match</sub></td>
-    <td>매칭 신청, 팀원 등록, 만료 상태 처리처럼 상태 변화가 많은 기능에서 트랜잭션과 제약 조건을 고려해 안정적인 데이터 흐름을 만들었습니다.</td>
+    <td width="28%" valign="top"><b>데이터 정합성 관리</b><br/><sub>GameMatch</sub></td>
+    <td>매칭 요청, 팀 등록, 만료 상태 처리처럼 상태 변경이 많은 기능에서 트랜잭션과 제약 조건을 고려해 안정적인 데이터 흐름을 만들었습니다.</td>
   </tr>
   <tr>
-    <td width="28%" valign="top"><b>서비스 전체 흐름 경험</b><br/><sub>Portfolio · Recall</sub></td>
-    <td>기획, UI 구현, API 연동, 배포까지 이어지는 웹 서비스 흐름을 경험했고, 팀 프로젝트에서는 역할 분담과 일정 조율을 함께 맡았습니다.</td>
+    <td width="28%" valign="top"><b>MSA 공통 플랫폼 설계</b><br/><sub>BBD-AES ERP MSA</sub></td>
+    <td>Gateway와 User Service를 연결하고, 여러 MSA가 같은 인증·인가·캐시·멱등성 정책을 재사용하도록 공통 프레임워크를 개발했습니다.</td>
   </tr>
 </table>
 
