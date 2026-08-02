@@ -163,8 +163,8 @@
     <td>Bounding Box 사전 조회, 좌표 복합 인덱스, 격자 기반 캐싱을 적용해 현재 위치 기반 검색의 반복 조회 비용을 줄이는 방향을 고민했습니다.</td>
   </tr>
   <tr>
-    <td width="28%" valign="top"><b>인증·인가 서비스 설계</b><br/><sub>GameMatch · Toilet_NearBy</sub></td>
-    <td>Spring Security와 JWT 기반 인증을 구현하고, 보호 API의 접근 제어를 서비스 구조에 맞게 설계했습니다.</td>
+    <td width="28%" valign="top"><b>인증·인가 서비스 설계</b><br/><sub>GameMatch · Toilet_NearBy · BBD-AES ERP MSA</sub></td>
+    <td>Spring Security와 JWT 기반 인증을 구현하고, BBD-AES ERP MSA에서는 Keycloak OAuth2 로그인·Resource Server 토큰 검증·Redis 세션을 Gateway와 User Service 전반에 맞춰 설계했습니다.</td>
   </tr>
   <tr>
     <td width="28%" valign="top"><b>데이터 정합성 관리</b><br/><sub>GameMatch</sub></td>
