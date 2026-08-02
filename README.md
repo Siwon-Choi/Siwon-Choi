@@ -71,10 +71,10 @@
   <tr>
     <td width="33%" valign="top">
       <h3 align="center">GameMatch</h3>
-      <div align="center">
+      <div align="center" style="height: 120px;">
         <p>
           <b>현재 개발 중 · GameMatch-Dev</b><br/>
-          <a href="https://github.com/GameMatch-Dev/Game_Match_FE"><img src="https://img.shields.io/badge/Current_Frontend-181717?style=flat-square&logo=github&logoColor=fff" alt="Current frontend"/></a>
+          <a href="https://github.com/GameMatch-Dev/GameMatch_FE"><img src="https://img.shields.io/badge/Current_Frontend-181717?style=flat-square&logo=github&logoColor=fff" alt="Current frontend"/></a>
           <a href="https://github.com/GameMatch-Dev/Game_Match_BE"><img src="https://img.shields.io/badge/Current_Backend-181717?style=flat-square&logo=github&logoColor=fff" alt="Current backend"/></a>
         </p>
         <p>
@@ -102,7 +102,7 @@
     </td>
     <td width="33%" valign="top">
       <h3 align="center">Toilet_NearBy</h3>
-      <div align="center">
+      <div align="center" style="height: 120px;">
         <a href="https://github.com/Siwon-Choi/BE_ToiletNearBy"><img src="https://img.shields.io/badge/Backend-181717?style=flat-square&logo=github&logoColor=fff" alt="Backend repository"/></a>
       </div>
       <hr/>
@@ -124,7 +124,7 @@
     </td>
     <td width="33%" valign="top">
       <h3 align="center">BBD-AES ERP MSA</h3>
-      <div align="center">
+      <div align="center" style="height: 120px;">
         <a href="https://github.com/BBD-AES"><img src="https://img.shields.io/badge/Organization-BBD--AES-181717?style=flat-square&logo=github&logoColor=fff" alt="BBD-AES organization"/></a><br/>
         <a href="https://github.com/BBD-AES/user"><img src="https://img.shields.io/badge/User_Service-181717?style=flat-square&logo=github&logoColor=fff" alt="User service"/></a>
         <a href="https://github.com/BBD-AES/security-gateway"><img src="https://img.shields.io/badge/Security_Gateway-181717?style=flat-square&logo=github&logoColor=fff" alt="Security gateway"/></a>
