@@ -65,7 +65,7 @@
 
 ---
 
-## Projects
+## 핵심 Projects
 
 <table>
   <tr>
