@@ -10,10 +10,10 @@
 **최종 프로젝트 우수 프로젝트상 1위** <sub>2026.06</sub><br>
 <sub>현대오토에버 모빌리티 SW 스쿨 / 현대파츠 ERP</sub><br><br>
 <img src="./assets/label-certification.svg" width="64" height="23" alt="자격증"><br>
-**정보처리기사** <sub>2026.06</sub><br>
-**SQL 개발자(SQLD)** <sub>2025.09</sub>
 <br clear="right">
 <a href="https://solved.ac/c000317"><img align="right" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=c000317" width="330" alt="solved.ac 프로필"></a>
+**정보처리기사** <sub>2026.06</sub><br>
+**SQL 개발자(SQLD)** <sub>2025.09</sub>
 
 <br clear="all">
 
