@@ -1,9 +1,7 @@
 # 최시원　[![이메일](https://img.shields.io/badge/c00031781%40gmail.com-475569?style=flat-square&logo=gmail&logoColor=white)](mailto:c00031781@gmail.com)
 [![이력서](https://img.shields.io/badge/%EC%9D%B4%EB%A0%A5%EC%84%9C-334155?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./documents/resume.pdf)　[![요약 포트폴리오](https://img.shields.io/badge/%EC%9A%94%EC%95%BD%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](./documents/portfolio-summary.pdf)　[![상세 포트폴리오](https://img.shields.io/badge/%EC%83%81%EC%84%B8%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-2559A8?style=for-the-badge&logo=googledocs&logoColor=white)](./documents/portfolio-detail.pdf)
 
-<table width="100%">
-<tr>
-<td width="55%" valign="top">
+<img align="right" src="./assets/skills-preview.svg" width="330" alt="Backend, Database &amp; Infra, Tools, Algorithm">
 
 <img src="./assets/label-education.svg" width="64" height="23" alt="학력"><br>
 **인하대학교 정보통신공학과 학사** <sub>2019.03–2025.08</sub><br><br>
@@ -11,26 +9,17 @@
 **현대오토에버 모빌리티 SW 스쿨 웹/앱 3기** <sub>2025.12–2026.06</sub><br><br>
 <img src="./assets/label-award.svg" width="64" height="23" alt="수상"><br>
 **최종 프로젝트 우수 프로젝트상 1위** <sub>2026.06</sub><br>
-<sub>현대오토에버 모빌리티 SW 스쿨 / 현대파츠 ERP</sub><br><br>
+<sub>현대오토에버 모빌리티 SW 스쿨 / 현대파츠 ERP</sub>
+
+<br clear="right">
+
+<a href="https://solved.ac/c000317"><img align="right" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=c000317" width="330" alt="solved.ac 프로필"></a>
+
 <img src="./assets/label-certification.svg" width="64" height="23" alt="자격증"><br>
 **정보처리기사** <sub>2026.06</sub><br>
 **SQL 개발자(SQLD)** <sub>2025.09</sub>
 
-</td>
-<td width="45%" valign="middle" align="left">
-
-<img src="./assets/skill-backend.svg" width="86" height="23" alt="Backend"><br>
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4E8528?style=flat-square&logo=springboot&logoColor=white) ![Spring Security](https://img.shields.io/badge/Spring%20Security-4E8528?style=flat-square&logo=springsecurity&logoColor=white) ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-4E8528?style=flat-square&logo=hibernate&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)<br><br>
-<img src="./assets/skill-infra.svg" width="136" height="23" alt="Database & Infra"><br>
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-C6302B?style=flat-square&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-1679B6?style=flat-square&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)<br><br>
-<img src="./assets/skill-tools.svg" width="62" height="23" alt="Tools"><br>
-![Git](https://img.shields.io/badge/Git-C53C20?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)<br><br>
-<img src="./assets/skill-algorithm.svg" width="88" height="23" alt="Algorithm"><br>
-<a href="https://solved.ac/c000317"><img src="https://mazassumnida.wtf/api/v2/generate_badge?boj=c000317" width="330" alt="solved.ac 프로필"></a>
-
-</td>
-</tr>
-</table>
+<br clear="all">
 
 ## 프로젝트
 
