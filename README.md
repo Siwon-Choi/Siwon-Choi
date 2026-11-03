@@ -1,4 +1,4 @@
-# 최시원　[![이메일](https://img.shields.io/badge/c00031781%40gmail.com-475569?style=flat-square&logo=gmail&logoColor=white)](mailto:c00031781@gmail.com)　[![이력서](https://img.shields.io/badge/%EC%9D%B4%EB%A0%A5%EC%84%9C-334155?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./documents/resume.pdf)　[![요약 포트폴리오](https://img.shields.io/badge/%EC%9A%94%EC%95%BD%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](./documents/portfolio-summary.pdf)　[![상세 포트폴리오](https://img.shields.io/badge/%EC%83%81%EC%84%B8%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-2559A8?style=for-the-badge&logo=googledocs&logoColor=white)](./documents/portfolio-detail.pdf)
+# 최시원　[![이력서](https://img.shields.io/badge/%EC%9D%B4%EB%A0%A5%EC%84%9C-334155?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./documents/resume.pdf)　[![요약 포트폴리오](https://img.shields.io/badge/%EC%9A%94%EC%95%BD%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-4285F4?style=for-the-badge&logo=googledocs&logoColor=white)](./documents/portfolio-summary.pdf)　[![상세 포트폴리오](https://img.shields.io/badge/%EC%83%81%EC%84%B8%20%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-2559A8?style=for-the-badge&logo=googledocs&logoColor=white)](./documents/portfolio-detail.pdf)
 
 <img align="right" src="./assets/skills-preview.svg" width="330" alt="Backend, Database &amp; Infra, Tools, Algorithm">
 
@@ -9,9 +9,7 @@
 <img src="./assets/label-award.svg" width="64" height="23" alt="수상"><br>
 **최종 프로젝트 우수 프로젝트상 1위** <sub>2026.06</sub><br>
 <sub>현대오토에버 모빌리티 SW 스쿨 / 현대파츠 ERP</sub>
-
 <br clear="right">
-
 <a href="https://solved.ac/c000317"><img align="right" src="https://mazassumnida.wtf/api/v2/generate_badge?boj=c000317" width="330" alt="solved.ac 프로필"></a>
 
 <img src="./assets/label-certification.svg" width="64" height="23" alt="자격증"><br>
